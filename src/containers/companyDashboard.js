@@ -1,6 +1,9 @@
 import React from 'react';
 
-class Dashboard extends React.Component {
+class CompanyDashboard extends React.Component {
+  fetchCompany = () => {
+
+  }
   render() {
     return (
       <div>
@@ -10,4 +13,4 @@ class Dashboard extends React.Component {
   }
 }
 
-export default Dashboard
+export default CompanyDashboard

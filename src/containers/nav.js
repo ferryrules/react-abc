@@ -9,7 +9,7 @@ class Nav extends React.Component {
     // })
     return (
       <div>
-        <Link to='/companies/:company_id'>Dashboard</Link>
+        <Link to='/companies/3'>Dashboard</Link>
         <Link to='/employees'>Employees</Link>
         <Link to='/tickets'>Helpdesk</Link>
         <Link to='/payrolls'>Payroll</Link>
